@@ -15,8 +15,8 @@ This software is distributed with no warranty under the GNU General Public Licen
 ![Overall design](Overall_design.png "Overall design of Slurm-LDMS project")
 
 Other components of the system:
-- Modified Slurm with required plugins (including instructions for installation and use):  
-  https://github.com/algo74/slurm
+- An implementation of "simple" implementation of "analytical services" components:  
+  https://github.com/algo74/py-sim-serv
 
 - LDMS:  
   https://github.com/ovis-hpc/ldms
