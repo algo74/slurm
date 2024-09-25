@@ -1,3 +1,10 @@
+/*****************************************************************************\
+*  backfill_configure.c - part of "Slurm-LDMS" project 
+*****************************************************************************
+*  Copyright (C) 2024 Alexander Goponenko, University of Central Florida.
+*  Distributed with no warranty under the GNU General Public License.
+*  See the GNU General Public License for more details.
+\*****************************************************************************/
 #include <limits.h>
 #include <stdlib.h>
 #include <sys/stat.h>
@@ -10,7 +17,7 @@
 #include "src/common/xmalloc.h"
 #include "src/common/xstring.h"
 
-static const char *ENVVAR_FILENAME = "VINSNL_CONFIG";
+                                                               static const char *ENVVAR_FILENAME = "VINSNL_CONFIG";
 enum { MAX_INT_STRING = ((CHAR_BIT * sizeof(int)) / 3 + 2) };
 
 static time_t last_config_time = 0;

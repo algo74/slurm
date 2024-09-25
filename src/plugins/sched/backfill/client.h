@@ -1,9 +1,11 @@
-/**
- * client.h
+/*****************************************************************************\
+ *  client.h - part of "Slurm-LDMS" project 
+ *****************************************************************************
+ *  Copyright (C) 2020 Alexander Goponenko, University of Central Florida.
  *
- *  Created on: Mar 2, 2020
- *      Author: alex
- */
+ *  Distributed with no warranty under the GNU General Public License.
+ *  See the GNU General Public License for more details.
+\*****************************************************************************/
 
 #ifndef CLIENT_H_
 #define CLIENT_H_

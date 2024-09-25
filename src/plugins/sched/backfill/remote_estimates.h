@@ -1,6 +1,12 @@
-/* 
- * Created by Alex G. 2022-11-11
- */
+/*****************************************************************************\
+ *  remote_estimates.h - part of "Slurm-LDMS" project 
+ *****************************************************************************
+ *  Copyright (C) 2020 Alexander Goponenko, University of Central Florida.
+ *
+ *  Distributed with no warranty under the GNU General Public License.
+ *  See the GNU General Public License for more details.
+\*****************************************************************************/
+
 #ifndef SRC_PLUGINS_SCHED_REMOTE_ESTIMATES_H_
 #define SRC_PLUGINS_SCHED_REMOTE_ESTIMATES_H_
 

@@ -1,11 +1,11 @@
-/**
- * usage_tracker.c
+/*****************************************************************************\
+ *  usage_tracker.c - part of "Slurm-LDMS" project 
+ *****************************************************************************
+ *  Copyright (C) 2020 Alexander Goponenko, University of Central Florida.
  *
- * works with SLURM
- *
- *  Created on: Feb 19, 2020
- *      Author: alex
- */
+ *  Distributed with no warranty under the GNU General Public License.
+ *  See the GNU General Public License for more details.
+\*****************************************************************************/
 
 #include <time.h>
 #include <stdio.h>

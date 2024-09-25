@@ -59,3 +59,8 @@ General
   - “status”: ”OK”, 
   - “response” : {”lustre” : “<int>”, ...}
 
+
+----
+Copyright (C) 2020 Alexander Goponenko, University of Central Florida.
+Distributed with no warranty under the GNU General Public License.
+See the GNU General Public License for more details.

@@ -1,3 +1,12 @@
+/*****************************************************************************\
+ *  client.c - part of "Slurm-LDMS" project 
+ *****************************************************************************
+ *  Copyright (C) 2020 Alexander Goponenko, University of Central Florida.
+ *
+ *  Distributed with no warranty under the GNU General Public License.
+ *  See the GNU General Public License for more details.
+\*****************************************************************************/
+
 #include <netdb.h>
 #include <stdio.h>
 #include <stdlib.h>

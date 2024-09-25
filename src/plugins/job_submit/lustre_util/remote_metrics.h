@@ -1,4 +1,11 @@
-
+/*****************************************************************************\
+ *  remote_metrics.h - part of "Slurm-LDMS" project 
+ *****************************************************************************
+ *  Copyright (C) 2020 Alexander Goponenko, University of Central Florida.
+ *
+ *  Distributed with no warranty under the GNU General Public License.
+ *  See the GNU General Public License for more details.
+\*****************************************************************************/
 
 #ifndef _SLURM_LUSTRE_UTIL_REMOTE_METRICS_H
 #define _SLURM_LUSTRE_UTIL_REMOTE_METRICS_H

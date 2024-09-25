@@ -1,9 +1,11 @@
-/**
- * usage_tracker.h
+/*****************************************************************************\
+ *  usage_tracker.h - part of "Slurm-LDMS" project 
+ *****************************************************************************
+ *  Copyright (C) 2020 Alexander Goponenko, University of Central Florida.
  *
- *  Created on: Feb 19, 2020
- *      Author: alex
- */
+ *  Distributed with no warranty under the GNU General Public License.
+ *  See the GNU General Public License for more details.
+\*****************************************************************************/
 
 #ifndef USAGE_TRACKER_H_
 #define USAGE_TRACKER_H_

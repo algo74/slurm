@@ -1,9 +1,11 @@
-/**
- * backfill_licenses.h
+/*****************************************************************************\
+ *  backfill_licenses.h - part of "Slurm-LDMS" project 
+ *****************************************************************************
+ *  Copyright (C) 2020 Alexander Goponenko, University of Central Florida.
  *
- *  Created on: Feb 25, 2020
- *      Author: alex
- */
+ *  Distributed with no warranty under the GNU General Public License.
+ *  See the GNU General Public License for more details.
+\*****************************************************************************/
 
 #ifndef SRC_PLUGINS_SCHED_BACKFILL_BACKFILL_LICENSES_H_
 #define SRC_PLUGINS_SCHED_BACKFILL_BACKFILL_LICENSES_H_

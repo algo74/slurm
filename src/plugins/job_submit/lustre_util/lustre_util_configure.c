@@ -1,3 +1,11 @@
+/*****************************************************************************\
+ *  lustre_util_configure.c - part of "Slurm-LDMS" project 
+ *****************************************************************************
+ *  Copyright (C) 2024 Alexander Goponenko, University of Central Florida.
+ *
+ *  Distributed with no warranty under the GNU General Public License.
+ *  See the GNU General Public License for more details.
+\*****************************************************************************/
 #include <limits.h>
 #include <pthread.h>
 #include <stdlib.h>

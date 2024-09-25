@@ -1,6 +1,11 @@
-/*
- * Created by Alex. G on 2022-11-11
- */
+/*****************************************************************************\
+ *  remote_estimates.c - part of "Slurm-LDMS" project 
+ *****************************************************************************
+ *  Copyright (C) 2024 Alexander Goponenko, University of Central Florida.
+ *
+ *  Distributed with no warranty under the GNU General Public License.
+ *  See the GNU General Public License for more details.
+\*****************************************************************************/
 
 // #include "src/common/xmalloc.h"
 #include "remote_estimates.h"

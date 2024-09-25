@@ -73,3 +73,9 @@ NOTES and TODOS
 
 - don't clip when calculating r_star and when testing against "star" target
   > we assume that because target can be exceeded, no need to clip
+
+
+-----
+Copyright (C) 2020 Alexander Goponenko, University of Central Florida.
+Distributed with no warranty under the GNU General Public License.
+See the GNU General Public License for more details.
