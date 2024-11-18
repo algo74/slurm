@@ -1,5 +1,8 @@
 # A modified Slurm with scheduling plugins for Slurm-LDMS project
 
+
+This repository contains source for the paper "Workload-Adaptive Scheduling for Efficient Use of Parallel File Systems in HPC Clusters" (presented at PBMS'2024). DOI: [TODO]()
+
 > This fork is based on Slurm version 20.02.
 > The original Slurm Readme file is [Slurm.README.rst](Slurm.README.rst).
 > The installation procedure is the same as in the original documentation.
